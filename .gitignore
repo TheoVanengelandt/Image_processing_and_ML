@@ -7,3 +7,6 @@
 
 # Local History for Visual Studio Code
 .history/
+
+# Do not push the result dataset
+.Dataset/*
