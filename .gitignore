@@ -9,4 +9,4 @@
 .history/
 
 # Do not push the result dataset
-.Dataset/processed/*
+Dataset/processed/
