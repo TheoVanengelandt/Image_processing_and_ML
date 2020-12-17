@@ -9,5 +9,4 @@
 .history/
 
 # Do not push the result dataset
-.Dataset/processed/deblurred/*
-.Dataset/processed/denoised/*
+.Dataset/processed/*
