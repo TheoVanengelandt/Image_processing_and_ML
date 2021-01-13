@@ -5,6 +5,9 @@
 !.vscode/extensions.json
 *.code-workspace
 
+#ignore checkpoints
+.ipynb_checkpoints/
+
 # Local History for Visual Studio Code
 .history/
 
