@@ -13,3 +13,6 @@
 
 # Do not push the result dataset
 Dataset/
+
+# Temp ignore the checkpoints folder
+checkpoints/
