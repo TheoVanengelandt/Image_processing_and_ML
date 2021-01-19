@@ -11,5 +11,6 @@
 # Local History for Visual Studio Code
 .history/
 
-# Do not push the result dataset
+# Do not push the dataset and others images
 Dataset/
+
